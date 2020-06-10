@@ -1,3 +1,4 @@
+#A PROGRAM TO FIND THE PALINDROME
 <?php  
 function palindrome($n){  
 $number = $n;  
