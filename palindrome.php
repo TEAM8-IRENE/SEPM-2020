@@ -15,6 +15,6 @@ $num = palindrome($input);
 if($input==$num){  
 echo "$input is a Palindrome number";  
 } else {  
-echo "$input is not a Palindrome";  
+echo "$input is not a Palindrome";//display not  palindrome 
 }  
 ?>  
