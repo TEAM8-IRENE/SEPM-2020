@@ -1,5 +1,6 @@
 #A PROGRAM TO FIND THE PALINDROME
 <?php  
+//Function to find palindrome
 function palindrome($n){  
 $number = $n; /* initialising number with value of n*/ 
 $sum = 0;  /* setting sum as zero*/
